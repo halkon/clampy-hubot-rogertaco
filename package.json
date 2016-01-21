@@ -29,7 +29,19 @@
     "hubot-slack-attachment": "^1.0.1",
     "hubot-urban": "^1.0.0",
     "jsdom": ">=0.1.20 < 1.0.0",
-    "scraper": "0.0.9"
+    "scraper": "0.0.9",
+    "hubot-business-cat": "^1.2.4",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-dogeme": "1.0.0",
+    "hubot-google-images": "^0.2.1",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-maps": "0.0.2",
+    "hubot-outofcontext": "1.0.1",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1"
   },
   "engines": {
     "node": "0.12.7",

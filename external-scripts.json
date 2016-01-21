@@ -1,1 +1,19 @@
-["hubot-plusplus", "hubot-urban", "hubot-plusplus", "hubot-jenkins-slack"]
+[
+    "hubot-plusplus",
+    "hubot-urban",
+    "hubot-plusplus",
+    "hubot-jenkins-slack",
+    "hubot-diagnostics",
+    "hubot-dogeme",
+    "hubot-help",
+    "hubot-heroku-keepalive",
+    "hubot-google-images",
+    "hubot-google-translate",
+    "hubot-pugme",
+    "hubot-maps",
+    "hubot-outofcontext",
+    "hubot-redis-brain",
+    "hubot-rules",
+    "hubot-shipit",
+    "hubot-business-cat"
+]
